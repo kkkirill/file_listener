@@ -32,3 +32,5 @@ Quick start:
     ```bash
     python main.py <filepath> <telegram_bot_token>
     ```
+
+### For subsequent launches run points `4`, `7`
